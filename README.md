@@ -31,5 +31,22 @@ Customize periodic scan settings by modifying variables in the main script.
 - colorama: Library for terminal text coloring.
 - progressbar: Tool for displaying progress bars in the console.
 - PyFiglet: Library for generating ASCII art text.
+
+## Cloning the Repository
+To clone this repository and run the antivirus software locally, follow these steps:
+1. Open a terminal or command prompt on your computer.
+2. Navigate to the directory where you want to clone the repository.
+3. Use the following command to clone the repository:
+
+```py
+git clone [<repository_url>](https://github.com/AyhamAsfoor/Anti_Virus_V1.4)
+```
+
+Once the repository is cloned, navigate into the project directory:
+```
+cd <project_directory>
+```
+Follow the instructions in the How to Use section of the README to install dependencies and execute the antivirus software.
+Now you have successfully cloned the repository and can start using the antivirus software on your local machine. Happy scanning!
 ## License
 This project is distributed under Apache 2.0. Feel free to use and modify it according to your needs.
