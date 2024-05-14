@@ -32,4 +32,4 @@ Customize periodic scan settings by modifying variables in the main script.
 - progressbar: Tool for displaying progress bars in the console.
 - PyFiglet: Library for generating ASCII art text.
 ## License
-This project is distributed under the MIT License. Feel free to use and modify it according to your needs.
+This project is distributed under Apache 2.0. Feel free to use and modify it according to your needs.
