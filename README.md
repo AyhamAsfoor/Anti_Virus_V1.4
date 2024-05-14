@@ -1,5 +1,8 @@
 # Anti Virus
-[![GitHub](https://img.shields.io/github/license/anjalp/Minimalistic-Flat-Modern-GUI-Template?logo=Github)](Apache_2.0) [![GitHub top language](https://img.shields.io/github/languages/top/anjalp/Minimalistic-Flat-Modern-GUI-Template?logo=github)](https://github.com/anjalp/Minimalistic-Flat-Modern-GUI-Template) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anjalp/Minimalistic-Flat-Modern-GUI-Template?logo=github)](https://github.com/anjalp/Minimalistic-Flat-Modern-GUI-Template) [![GitHub issues](https://img.shields.io/github/issues/anjalp/Minimalistic-Flat-Modern-GUI-Template?logo=github)](https://github.com/anjalp/Minimalistic-Flat-Modern-GUI-Template/issues)
+[![License](https://img.shields.io/github/license/AyhamAsfoor/Anti_Virus_V1.4/blob/main/LICENSE?logo=Apache%20License)](LICENSE)
+[![GitHub top language](https://img.shields.io/github/languages/top/your-username/your-repository?logo=github)](https://github.com/your-username/your-repository)
+[![Code Size](https://img.shields.io/github/languages/code-size/your-username/your-repository?logo=github)](https://github.com/your-username/your-repository)
+[![GitHub issues](https://img.shields.io/github/issues/your-username/your-repository?logo=github)](https://github.com/your-username/your-repository/issues)
 ## Overview
 This project is a robust antivirus software implemented in Python. It leverages YARA rules to detect malicious files within the system and provides options to quarantine, delete, or move them to a specified folder.
 
