@@ -44,9 +44,10 @@ git clone https://github.com/AyhamAsfoor/Anti_Virus_V1.4
 
 Once the repository is cloned, navigate into the project directory:
 ```
-cd <project_directory>
+cd <repalce_your_project_directory>
 ```
-Follow the instructions in the How to Use section of the README to install dependencies and execute the antivirus software.
-Now you have successfully cloned the repository and can start using the antivirus software on your local machine. Happy scanning!
+> [!NOTE].
+> Follow the instructions in the How to Use section of the README to install dependencies and execute the antivirus software.
+> Now you have successfully cloned the repository and can start using the antivirus software on your local machine. Happy scanning!
 ## License
 This project is distributed under Apache 2.0. Feel free to use and modify it according to your needs.
