@@ -1,5 +1,5 @@
 # Anti Virus
-[![License](https://img.shields.io/github/license/AyhamAsfoor/Anti_Virus_V1.4/blob/main/LICENSE?logo=Apache%20License)](https://github.com/AyhamAsfoor/Anti_Virus_V1.4/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/AyhamAsfoor/Anti_Virus_V1.4?logo=Github)](https://github.com/AyhamAsfoor/Anti_Virus_V1.4/blob/main/LICENSE)
 [![GitHub top language](https://img.shields.io/github/languages/top/your-username/your-repository?logo=github)](https://github.com/your-username/your-repository)
 [![Code Size](https://img.shields.io/github/languages/code-size/your-username/your-repository?logo=github)](https://github.com/your-username/your-repository)
 [![GitHub issues](https://img.shields.io/github/issues/your-username/your-repository?logo=github)](https://github.com/your-username/your-repository/issues)
