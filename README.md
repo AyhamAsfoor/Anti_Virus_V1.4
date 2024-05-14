@@ -3,6 +3,14 @@
 [![GitHub top language](https://img.shields.io/github/languages/top/AyhamAsfoor/Anti_Virus_V1.4?logo=github)](https://github.com/AyhamAsfoor/Anti_Virus_V1.4)
 [![Code Size](https://img.shields.io/github/languages/code-size/AyhamAsfoor/Anti_Virus_V1.4?logo=github)](https://github.com/AyhamAsfoor/Anti_Virus_V1.4)
 [![GitHub issues](https://img.shields.io/github/issues/AyhamAsfoor/Anti_Virus_V1.4?logo=github)](https://github.com/AyhamAsfoor/Anti_Virus_V1.4/issues)
+```py
+                    _     _     __      __  _                      
+    /\             | |   (_)    \ \    / / (_)                     
+   /  \     _ __   | |_   _      \ \  / /   _   _ __   _   _   ___ 
+  / /\ \   | '_ \  | __| | |      \ \/ /   | | | '__| | | | | / __|
+ / ____ \  | | | | | |_  | |       \  /    | | | |    | |_| | \__ \
+/_/    \_\ |_| |_|  \__| |_|        \/     |_| |_|     \__,_| |___/
+```
 ## Overview
 This project is a robust antivirus software implemented in Python. It leverages YARA rules to detect malicious files within the system and provides options to quarantine, delete, or move them to a specified folder.
 
