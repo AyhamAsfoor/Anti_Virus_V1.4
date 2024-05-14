@@ -39,7 +39,7 @@ To clone this repository and run the antivirus software locally, follow these st
 3. Use the following command to clone the repository:
 
 ```py
-git clone [<repository_url>](https://github.com/AyhamAsfoor/Anti_Virus_V1.4)
+git clone https://github.com/AyhamAsfoor/Anti_Virus_V1.4
 ```
 
 Once the repository is cloned, navigate into the project directory:
