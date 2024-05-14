@@ -12,14 +12,14 @@ This project is a comprehensive antivirus tool designed to scan directories, fil
 - Periodic Scanning: Supports automated periodic scans based on user-configurable settings.
   
 ## How to Use
-### Installation:
-Ensure Python is installed on your computer.
-Install required dependencies using pip install -r requirements.txt.
+### 1) Installation:
+- Ensure Python is installed on your computer.
+- Install required dependencies using pip install -r requirements.txt.
 
-### Execution:
+### 2) Execution:
 Follow the command-line prompts to select scanning options and directories.
 
-### Configuration:
+### 3) Configuration:
 Customize periodic scan settings by modifying variables in the main script.
 ## Dependencies
 - YARA: For malware signature detection in files.
