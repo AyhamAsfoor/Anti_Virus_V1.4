@@ -14,7 +14,7 @@ This project is a comprehensive antivirus tool designed to scan directories, fil
 ## How to Use
 ### 1) Installation:
 - Ensure Python is installed on your computer.
-- Install required dependencies using <sub> pip install -r requirements.txt. </sub>
+- Install required dependencies using <sup> pip install -r requirements.txt. </sup>
 
 ### 2) Execution:
 Follow the command-line prompts to select scanning options and directories.
