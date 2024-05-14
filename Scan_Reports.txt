@@ -1,0 +1,184 @@
+====== Scan Report ======
+Date: 2024-05-10 18:00:19
+Path: E:/project/CyberSecurity/pythonProject2/.venv
+Files Scanned: 1911
+All malicious files that were identified below
+=========================
+
+File was hit: cmdline with rule: spyeye_plugins
+
+File was hit: config with rule: spyeye_plugins
+
+File was hit: control with rule: spyeye_plugins
+
+File was hit: wheel with rule: spyeye
+
+====== Scan Report ======
+Date: 2024-05-10 18:22:12
+Path: E:/project/CyberSecurity/pythonProject2/test
+Files Scanned: 4
+All malicious files that were identified below
+=========================
+
+File was hit: testfile with rule: eicar
+
+File was hit: testfile - Copy with rule: eicar
+
+File was hit: testfile with rule: eicar
+
+File was hit: testfile with rule: eicar
+
+====== Scan Report ======
+Date: 2024-05-10 18:30:35
+Path: E:/project/CyberSecurity/pythonProject2/test/New folder
+Files Scanned: 1
+All malicious files that were identified below
+=========================
+
+File was hit: testfile with rule: eicar
+
+====== Scan Report ======
+Date: 2024-05-10 18:34:02
+Path: E:/project/CyberSecurity/pythonProject2/test/New folder
+Files Scanned: 1
+All malicious files that were identified below
+=========================
+
+File was hit: testfile with rule: eicar
+
+====== Scan Report ======
+Date: 2024-05-10 18:34:44
+Path: E:/project/CyberSecurity/pythonProject2/test/New folder
+Files Scanned: 1
+All malicious files that were identified below
+=========================
+
+File was hit: testfile with rule: eicar
+
+====== Scan Report ======
+Date: 2024-05-10 18:37:15
+Path: E:/project/CyberSecurity/pythonProject2/test/New folder
+Files Scanned: 1
+All malicious files that were identified below
+=========================
+
+File was hit: testfile with rule: eicar
+
+====== Scan Report ======
+Date: 2024-05-10 18:38:55
+Path: E:/project/CyberSecurity/pythonProject2/test/New folder
+Files Scanned: 1
+All malicious files that were identified below
+=========================
+
+File was hit: testfile with rule: eicar
+
+====== Scan Report ======
+Date: 2024-05-10 18:40:15
+Path: E:/project/CyberSecurity/pythonProject2/test/New folder
+Files Scanned: 1
+All malicious files that were identified below
+=========================
+
+File was hit: testfile with rule: eicar
+
+====== Scan Report ======
+Date: 2024-05-10 18:41:46
+Path: E:/project/CyberSecurity/pythonProject2/test/New folder
+Files Scanned: 1
+All malicious files that were identified below
+=========================
+
+File was hit: testfile with rule: eicar
+
+====== Scan Report ======
+Date: 2024-05-10 21:21:47
+Path: E:/project/CyberSecurity/pythonProject2/test/New folder
+Files Scanned: 1
+All malicious files that were identified below
+=========================
+
+File was hit: testfile with rule: eicar
+
+====== Scan Report ======
+Date: 2024-05-13 13:08:24
+Path: E:/project/CyberSecurity/pythonProject2/test
+Files Scanned: 4
+All malicious files that were identified below
+=========================
+
+File was hit: testfile with rule: eicar
+
+File was hit: testfile - Copy with rule: eicar
+
+File was hit: testfile with rule: eicar
+
+File was hit: testfile with rule: eicar
+
+====== Scan Report ======
+Date: 2024-05-13 13:35:39
+Path: E:/project/CyberSecurity/pythonProject2/exp
+Files Scanned: 1
+All malicious files that were identified below
+=========================
+
+File was hit: eicar.com with rule: eicar
+
+====== Scan Report ======
+Date: 2024-05-14 15:14:33
+Path: 
+Files Scanned: 0
+All malicious files that were identified below
+=========================
+
+====== Scan Report ======
+Date: 2024-05-14 15:15:38
+Path: E:/project/Python_Network_Protocols/pythonProject/.venv
+Files Scanned: 1655
+All malicious files that were identified below
+=========================
+
+File was hit: PsdImagePlugin with rule: spyeye
+
+File was hit: ImageTransform.cpython-311 with rule: PoetRat_Python
+
+File was hit: PsdImagePlugin.cpython-311 with rule: spyeye
+
+File was hit: wheel with rule: spyeye
+
+====== Scan Report ======
+Date: 2024-05-14 15:19:44
+Path: 
+Files Scanned: 0
+All malicious files that were identified below
+=========================
+
+====== Scan Report ======
+Date: 2024-05-14 15:34:19
+Path: 
+Files Scanned: 0
+All malicious files that were identified below
+=========================
+
+====== Scan Report ======
+Date: 2024-05-14 15:35:53
+Path: 
+Files Scanned: 0
+All malicious files that were identified below
+=========================
+
+====== Scan Report ======
+Date: 2024-05-14 15:36:49
+Path: E:/project/CyberSecurity/pythonProject2/test
+Files Scanned: 4
+All malicious files that were identified below
+=========================
+
+File was hit: testfile with rule: eicar
+
+File was hit: testfile - Copy with rule: eicar
+
+File was hit: testfile with rule: eicar
+
+File was hit: testfile with rule: eicar
+
