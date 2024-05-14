@@ -49,5 +49,8 @@ cd <repalce_your_project_directory>
 > [!NOTE].
 > Follow the instructions in the How to Use section of the README to install dependencies and execute the antivirus software.
 > Now you have successfully cloned the repository and can start using the antivirus software on your local machine. Happy scanning!
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 ## License
 This project is distributed under Apache 2.0. Feel free to use and modify it according to your needs.
