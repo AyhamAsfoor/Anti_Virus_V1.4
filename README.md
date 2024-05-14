@@ -48,7 +48,8 @@ cd <repalce_your_project_directory>
 ```
 > [!TIP]
 > Follow the instructions in the How to Use section of the README to install dependencies and execute the antivirus software.
-
-
+> [!IMPORTANT]
+> If you have any issues, please don't be shy to get in touch with me.
 ## License
-This project is distributed under Apache 2.0. Feel free to use and modify it according to your needs.
+This project is licensed under the Apache License 2.0.
+You can find the full text of the license in the LICENSE file.
