@@ -1,0 +1,6 @@
+yara-python
+pyfiglet
+threading
+progressbar2
+colorama
+tkinter
