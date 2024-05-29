@@ -56,7 +56,7 @@ git clone https://github.com/AyhamAsfoor/Anti_Virus_V1.4
 
 Once the repository is cloned, navigate into the project directory:
 ```
-cd <repalce_your_project_directory>
+cd <repalce_project_directory>
 ```
 > [!TIP]
 > Follow the instructions in the How to Use section of the README to install dependencies and execute the antivirus software.
